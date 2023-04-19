@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Dubai23 Project.</h1>
+<h1 align="center">Welcome to Tesla Web application SeaseriseTech Project.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
+	           We are raising millionaires in IT automation. Prof Adeyinka Adekunle is doing a good job in trainning us
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class32 will start on April 15, 2023. </h1>
+	Our graduation is August 28th, 2023. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -41,7 +41,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
         Searise technology solutions
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Searise technology solutions</a>
+		<a href="mailto:searisetech@gmail.com">Mail to Searise technology solutions</a>
 	</span>
 </div>
 <hr>
@@ -49,7 +49,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center> Searise technology solutions - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://Searisetechnologysolutions.com/">Searise technology solutions</a> </small></p>
+<p align=center><small>Copyrights 2023 by <a href="http://Searisetechnologysolutions.com/">Searise technology solutions</a> </small></p>
 
 </body>
 </html>
